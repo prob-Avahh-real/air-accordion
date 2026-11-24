@@ -1,0 +1,17 @@
+{
+  "appId": "com.skat.airaccordion",
+  "appName": "空气手风琴",
+  "webDir": "www",
+  "ios": {
+    "contentInset": "automatic"
+  },
+  "android": {
+    "allowMixedContent": true
+  },
+  "plugins": {
+    "StatusBar": {
+      "style": "DARK",
+      "backgroundColor": "#1a0c10"
+    }
+  }
+}

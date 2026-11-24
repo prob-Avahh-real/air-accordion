@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">空气手风琴</string>
+    <string name="title_activity_main">空气手风琴</string>
+    <string name="package_name">com.skat.airaccordion</string>
+    <string name="custom_url_scheme">com.skat.airaccordion</string>
+</resources>
